@@ -4,5 +4,5 @@ for i in range(len(a)):
     if a[i] == a:
         print('privet')
     else:
-        print('poka')
+        print('pa')
 print('D')
