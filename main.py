@@ -5,4 +5,6 @@ for i in range(len(a)):
     print(a[i+2])
     print(a[i+3])
     print(a[i+4])
-print('Donate pls')
+print(a)
+print(a[0])
+print(a[1])
