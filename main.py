@@ -1,8 +1,7 @@
 a = 'Hello world!'
 for i in range(len(a)):
     print(a[i])
-    if a[i] == a:
-        print('privet')
-    else:
-        print('poka')
-print('Don')
+    print(a[i+1])
+    print(a[i+2])
+    print(a[i+3])
+print('Donate pls')
