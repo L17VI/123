@@ -5,4 +5,4 @@ for i in range(len(a)):
         print('privet')
     else:
         print('poka')
-print('Don')
+print('D')
