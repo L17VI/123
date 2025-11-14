@@ -1,5 +1,8 @@
 a = 'Hello world!'
 for i in range(len(a)):
-    print(a)
-print('ogo')
-print('novaya')
+    print(a[i])
+    if a[i] == a:
+        print('privet')
+    else:
+        print('poka')
+print('Don')
