@@ -1,2 +1,3 @@
-print('Hello world!')
-print('This is a sample Python script.')
+a = 'Hello world!'
+for i in range(len(a)):
+    print(a)
